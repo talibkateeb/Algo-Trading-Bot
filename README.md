@@ -10,27 +10,27 @@ The goal of this project is to create an algorithmic trading bot and tune it in 
 
 Baseline Trading Algorithm:
 
-![Baseline Algorithm Classification Report]()
+![Baseline Algorithm Classification Report](https://github.com/talibkateeb/Algo-Trading-Bot/blob/main/Images/baseline-performance.png)
 
-![Baseline Algorithm Graph]()
+![Baseline Algorithm Graph](https://github.com/talibkateeb/Algo-Trading-Bot/blob/main/Images/baseline.png)
 
 Tuned Algorithm 12 Month Training Set:
 
-![Tuned Algorithm 12 Month Training Set Classification Report]()
+![Tuned Algorithm 12 Month Training Set Classification Report](https://github.com/talibkateeb/Algo-Trading-Bot/blob/main/Images/12-month-training-performance.png)
 
-![Tuned Algorithm 12 Month Training Set Graph]()
+![Tuned Algorithm 12 Month Training Set Graph](https://github.com/talibkateeb/Algo-Trading-Bot/blob/main/Images/12-month-training.png)
 
 Tuned Algorithm wider SMA windows:
 
-![Tuned Algorithm wider SMA windows Classification Report]()
+![Tuned Algorithm wider SMA windows Classification Report](https://github.com/talibkateeb/Algo-Trading-Bot/blob/main/Images/tuned-sma-performance.png)
 
-![Tuned Algorithm wider SMA windows Graph]()
+![Tuned Algorithm wider SMA windows Graph](https://github.com/talibkateeb/Algo-Trading-Bot/blob/main/Images/tuned-sma.png)
 
 Logistic Regression Model:
 
-![Logistic Regression Model Classification Report]()
+![Logistic Regression Model Classification Report](https://github.com/talibkateeb/Algo-Trading-Bot/blob/main/Images/logistic-regression-performance.png)
 
-![Logistic Regression Model Graph]()
+![Logistic Regression Model Graph](https://github.com/talibkateeb/Algo-Trading-Bot/blob/main/Images/logistic-regression.png)
 
 
 ### Summary 
