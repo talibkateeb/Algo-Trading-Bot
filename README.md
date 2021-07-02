@@ -34,9 +34,23 @@ Logistic Regression Model:
 
 
 ### Summary 
-What impact resulted from increasing or decreasing either or both of the SMA windows?
-Did this new model perform better or worse than the provided baseline model? Did this new model perform better or worse than your tuned trading algorithm?
+Questions:
 
+1- What impact resulted from increasing or decreasing either or both of the SMA windows? 
+
+* Increasing both SMA windows resulted in a higher precision for the model. 
+
+
+2- Did this new model perform better or worse than the provided baseline model?
+
+* It performed better at predicting the -1 signal than the baseline. 
+
+ 3- Did this new model perform better or worse than your tuned trading algorithm?
+
+ * It performed better at predicting the -1 signal than both tuned algorithms. 
+
+
+It seems like the overall impact of tuning the algorithm and using a new model is not very significant. However, with that said the algorithm performed better with a longer training set rather than with a shorter one. 
 
 ---
 
@@ -52,7 +66,7 @@ This application runs on python version 3.7, with the following add-ons:
 
 * [Numpy](https://numpy.org/) - a python library for scientific and mathematical computing. 
 
-* []() - hvplot
+* [hvplot](https://hvplot.holoviz.org/) - A high level plotting API built on holoviews.
 
 ---
 
@@ -78,14 +92,6 @@ Open Jupyter Notebook and navigate to the notebook file.
 Click on each cell to run individually:
 
     Shift + Enter
-
----
-
-## Example
-
-Running 
-
-![Code Example]()
 
 ---
 
